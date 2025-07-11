@@ -10,6 +10,10 @@ if {$a > $b } {
 } else {
     puts "b is greater than a"
 }
+if 0 {
+This multiline comment 
+using if 0 
+}
 unset a 
 if {[info exists a ]} {
 puts "a exists "
