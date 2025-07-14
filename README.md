@@ -1,7 +1,7 @@
 # TCL-Scripting
 
 ```text
-├── Important_Slides/               # Important slides from Mahra's course by Dr. Dina Tantawy
+├── Important_Slides/               # Important slides from Mahara's course by Dr. Dina Tantawy
 ├── Scripts/                        # TCL scripts for various topics
 ├── TCL_Detailed_Notes.pdf          # Written notes from the course
 └── TCL_Strings.pdf                 # Summary of string operations in TCL by Eng. Basma Atia
