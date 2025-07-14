@@ -1,12 +1,11 @@
 # TCL-Scripting
-|--- Important Slides: directory has important slides from Mahra's course by Dr./Dina Tantawy
-|
-|--- Scripts:  directory has tcl scripts for various topics
-|
-|--- TCL_Detailed_Notes.pdf: my written notes from the course
-|
-|--- TCL Strings.pdf: summary of string operations in tcl by Eng./Basme Atia
 
+```text
+├── Important_Slides/               # Important slides from Mahra's course by Dr. Dina Tantawy
+├── Scripts/                        # TCL scripts for various topics
+├── TCL_Detailed_Notes.pdf          # Written notes from the course
+└── TCL_Strings.pdf                 # Summary of string operations in TCL by Eng. Basma Atia
+```
 
 
 
